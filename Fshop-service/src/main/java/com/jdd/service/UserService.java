@@ -16,4 +16,12 @@ public interface UserService {
      * @return
      */
     Users createUser(UserBo userBo) throws Exception;
+
+    /**
+     * 检查用户名密码是否匹配
+     * @param username
+     * @param password
+     * @return
+     */
+    Users queryUserForLogin(String username,String password);
 }

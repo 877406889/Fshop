@@ -1,1 +1,6 @@
+com\jdd\config\CorsConfig.class
+com\jdd\controller\HelloControlle.class
+com\jdd\Application.class
 com\jdd\controller\PassportController.class
+com\jdd\config\Swagger2.class
+com\jdd\controller\StuController.class

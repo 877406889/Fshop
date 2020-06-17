@@ -1,0 +1,14 @@
+com\jdd\mapper\ItemsImgMapper.class
+com\jdd\mapper\CategoryMapper.class
+com\jdd\my\mapper\MyMapper.class
+com\jdd\mapper\ItemsSpecMapper.class
+com\jdd\mapper\OrderItemsMapper.class
+com\jdd\mapper\ItemsParamMapper.class
+com\jdd\mapper\ItemsCommentsMapper.class
+com\jdd\mapper\OrderStatusMapper.class
+com\jdd\mapper\OrdersMapper.class
+com\jdd\mapper\StuMapper.class
+com\jdd\mapper\UserAddressMapper.class
+com\jdd\mapper\CarouselMapper.class
+com\jdd\mapper\ItemsMapper.class
+com\jdd\mapper\UsersMapper.class

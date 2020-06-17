@@ -1,2 +1,4 @@
 com\jdd\service\Impl\UserServiceImpl.class
 com\jdd\service\UserService.class
+com\jdd\service\StuService.class
+com\jdd\service\Impl\StuServiceImpl.class

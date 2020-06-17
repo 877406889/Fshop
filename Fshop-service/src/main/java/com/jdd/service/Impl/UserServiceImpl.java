@@ -70,5 +70,11 @@ public class UserServiceImpl implements UserService {
         return user;
     }
 
+    @Override
+    public Users queryUserForLogin(String username, String password) {
+
+        return null;
+    }
+
 
 }

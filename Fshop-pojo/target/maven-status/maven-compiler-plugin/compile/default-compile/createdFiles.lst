@@ -1,0 +1,14 @@
+com\jdd\pojo\UserAddress.class
+com\jdd\pojo\Items.class
+com\jdd\pojo\ItemsImg.class
+com\jdd\pojo\ItemsComments.class
+com\jdd\pojo\OrderStatus.class
+com\jdd\pojo\Category.class
+com\jdd\pojo\ItemsSpec.class
+com\jdd\pojo\bo\UserBo.class
+com\jdd\pojo\Carousel.class
+com\jdd\pojo\Users.class
+com\jdd\pojo\Orders.class
+com\jdd\pojo\ItemsParam.class
+com\jdd\pojo\Stu.class
+com\jdd\pojo\OrderItems.class
